@@ -2,7 +2,7 @@
 
 # [https://huezo.github.io/](https://huezo.github.io/)
 
-## github 
+## github  
 
 # [https://github.com/huezo](https://github.com/huezo)
 
